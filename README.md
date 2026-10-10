@@ -2,4 +2,4 @@
 
 ## Іске қосу
 python3 app.py
-Poll SCM test
+Poll SCM test1
